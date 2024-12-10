@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinurilakna&show_icons=true&locale=en" alt="dinurilakna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinurilakna&" alt="dinurilakna" /></p>
+
