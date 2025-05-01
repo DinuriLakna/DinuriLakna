@@ -18,7 +18,7 @@
 <br>
 <h3>🛠️ My Skills:</h3><br>
 
-<p align="left" style="display: flex; flex-wrap: nowrap; gap: 30px;">
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 70px;">
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="46"/></a>
   <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="46"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="46"/></a>
@@ -41,8 +41,6 @@
   <a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="46"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="46"/></a>
 </p>
-
-
 
 <br />
 
