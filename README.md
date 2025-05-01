@@ -18,9 +18,9 @@
 <br>
 <h3>🛠️ My Skills:</h3><br>
 
-<p align="left" style="display: flex; flex-wrap: nowrap; gap: 70px;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 70px;">
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="46"/></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="46"/></a>
+    <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="46"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="46"/></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="46"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="46"/></a>
@@ -47,16 +47,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="190" alt="Buy me a coffee" /></a></p><br><br>
 
-
 <br>
 <h3><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> <b>Github Stats:</b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinurilakna&label=Profile%20views&color=0e75b6&style=flat" alt="dinurilakna" /> </p><br>
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinurilakna" alt="dinurilakna" /></a> </p><br>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinurilakna&show_icons=true&locale=en" alt="dinurilakna" /></p>
-
-
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dinurilakna&show_icons=true&locale=en" alt="dinurilakna" /></p>
