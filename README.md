@@ -11,7 +11,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dinuri lakna dassanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinuri lakna dassanayake" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/dinuri-lakna-dassanayake-322b052bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinuri lakna dassanayake" height="35" width="45" /></a>
 <a href="https://fb.com/lakna dassanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakna dassanayake" height="35" width="45" /></a>
 <a href="https://instagram.com/_.lakna._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.lakna._" height="35" width="45" /></a>
 </p>
